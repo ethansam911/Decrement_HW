@@ -1,0 +1,19 @@
+.ContactCard
+{
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+p
+{
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+.ContactCard
+{
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    width: 40%;
+    margin-bottom: 2%;
+}
